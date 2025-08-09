@@ -1,0 +1,35 @@
+ body {
+   background-color: #777FE0;
+ }
+ 
+ .holder {
+   display: flex;
+   align-items: center;
+   width: 300px;
+   background-color: #fff;
+   justify-content: space-between;
+   margin:100px auto 50px auto;
+ }
+ 
+ img {
+   width: 50px;
+   height: 50px;
+ }
+ 
+ #pswd {
+   width: 70%;
+   font-size: 25px;
+   border: none;
+   outline: none;
+   /*removes the yellow outlines on inputs*/
+   margin-left: 3px;
+ }
+ 
+ #comments {
+   padding: 5px 5px 5px 45px;
+   text-align:center;
+ }
+ 
+ li {
+   list-style: none;
+ }
